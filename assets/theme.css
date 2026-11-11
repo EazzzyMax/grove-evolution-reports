@@ -1,0 +1,30 @@
+:root { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+.theme-toggle { position:fixed; top:12px; right:16px; z-index:100; display:flex; align-items:center; gap:7px; min-height:38px; padding:7px 13px; border:1px solid #b6cbbc; border-radius:20px; background:#f7faf3; color:#264337; box-shadow:0 2px 12px #0002; font:500 13px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; cursor:pointer; }
+.theme-toggle:hover { border-color:#389779; }
+.theme-toggle:focus-visible { outline:3px solid #51b996; outline-offset:3px; }
+body > header { padding-top:72px; }
+html { scroll-padding-top:75px; }
+nav { padding-right:130px; }
+:root[data-theme="dark"] body { background:#101917; color:#dce8df; }
+:root[data-theme="dark"] .theme-toggle { background:#20352c; color:#e2f0e5; border-color:#436352; box-shadow:0 2px 12px #0005; }
+:root[data-theme="dark"] h1 em, :root[data-theme="dark"] a { color:#83d5b3; }
+:root[data-theme="dark"] .lead { color:#b0c4b7; }
+:root[data-theme="dark"] .eyebrow, :root[data-theme="dark"] figcaption, :root[data-theme="dark"] .muted, :root[data-theme="dark"] footer, :root[data-theme="dark"] td small { color:#9eb7a7; }
+:root[data-theme="dark"] section { border-color:#304439; }
+:root[data-theme="dark"] nav { background:#172b22; border-bottom:1px solid #344c3e; }
+:root[data-theme="dark"] nav a { color:#e2eee5; }
+:root[data-theme="dark"] .badges span, :root[data-theme="dark"] details { background:#203027; color:#cfe0d3; }
+:root[data-theme="dark"] .cards article { background:#192b22; border-color:#344c3c; }
+:root[data-theme="dark"] .cards b { color:#83d5b3; }
+:root[data-theme="dark"] .callout { background:#1b3025; border-color:#65bf98; }
+:root[data-theme="dark"] .callout.warn { background:#342b1d; border-color:#ca9b56; }
+:root[data-theme="dark"] figure { background:#18211d; border-color:#34473b; }
+:root[data-theme="dark"] figure img { filter:invert(.92) hue-rotate(180deg); }
+:root[data-theme="dark"] .scroll { border-color:#34473b; }
+:root[data-theme="dark"] table { background:#17241d; color:#dce8df; }
+:root[data-theme="dark"] th { background:#25392b; }
+:root[data-theme="dark"] td, :root[data-theme="dark"] th { border-color:#314537; }
+:root[data-theme="dark"] .downloads a { background:#28563f; color:#effaf2; }
+@media(max-width:640px) { .theme-toggle { top:9px; right:10px; min-height:36px; padding:6px 11px; } body > header { padding-top:65px; } nav { padding-right:126px; } }
+@media print { .theme-toggle { display:none; } :root[data-theme="dark"] figure img { filter:none; } }
