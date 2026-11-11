@@ -23095,6 +23095,73 @@
       "steps": 47.5703125
     }
   },
+  "main13_eval": {
+    "drought": {
+      "success": 88.671875,
+      "food": 25.66015625,
+      "ticks": 2264.5859375,
+      "survival": 13.28125,
+      "cracked": 38.84375,
+      "strikes": 134.9765625,
+      "steps": 222.2734375
+    },
+    "nut": {
+      "success": 94.140625,
+      "food": 0.94140625,
+      "ticks": 300,
+      "survival": 100,
+      "cracked": 0.94140625,
+      "strikes": 3.2734375,
+      "steps": 26.75390625
+    },
+    "nut_tree": {
+      "success": 91.015625,
+      "food": 0.91015625,
+      "ticks": 300,
+      "survival": 100,
+      "cracked": 0.921875,
+      "strikes": 5.21484375,
+      "steps": 39.28515625
+    },
+    "ready": {
+      "success": 100,
+      "food": 1,
+      "ticks": 300,
+      "survival": 100,
+      "cracked": 0,
+      "strikes": 2.109375,
+      "steps": 31.5234375
+    },
+    "solo": {
+      "success": 88.671875,
+      "food": 61.75,
+      "ticks": 2972.93359375,
+      "survival": 37.5,
+      "cracked": 107.98828125,
+      "strikes": 225.65234375,
+      "steps": 311.953125
+    }
+  },
+  "main13_torus": {
+    "drought_torus": {
+      "success": 89.0625,
+      "food": 29.0859375,
+      "ticks": 2868.34375,
+      "survival": 27.34375,
+      "cracked": 36.0859375,
+      "strikes": 86.078125,
+      "steps": 287.5234375
+    },
+    "torus": {
+      "success": 90.625,
+      "food": 66.9921875,
+      "ticks": 3520.109375,
+      "survival": 49.21875,
+      "cracked": 99.234375,
+      "strikes": 182.4296875,
+      "steps": 405.1875
+    }
+  },
   "residence": [
     {
       "tree": false,
