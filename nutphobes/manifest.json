@@ -1,0 +1,98 @@
+{
+  "step1": {
+    "info": {
+      "id": "d89bae6db98a03499abd88469e5021d9",
+      "name": "варвары орехофобы шаг1",
+      "count": 61,
+      "tick": 2258380,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794429846
+    },
+    "sha256": "077d4e5f2f67da206fdba442268980dec0525398fa00ea6bec4da5a66cba23d2"
+  },
+  "step5": {
+    "info": {
+      "id": "b9f4c41fc3d41d775d08dcf612bcd8c2",
+      "name": "варвары орехофобы шаг5",
+      "count": 113,
+      "tick": 3536367,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794432019
+    },
+    "sha256": "bea92db837e2d570016e4df12cdc1d20f818a011a1b3f96a41cfe46b078fd9ff"
+  },
+  "step2": {
+    "info": {
+      "id": "549ccc584a162113fcfb9de90d5f6aad",
+      "name": "варвары орехофобы шаг2",
+      "count": 92,
+      "tick": 1926115,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794430198
+    },
+    "sha256": "dfcef813298c3d7b1fd9e17a23dc745e92e55cc823c38d34e107bb451e41a202"
+  },
+  "step4": {
+    "info": {
+      "id": "7fd683a30ef5a9c2557f6d3e731152b1",
+      "name": "варвары орехофобы шаг4",
+      "count": 117,
+      "tick": 2178060,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794431835
+    },
+    "sha256": "2e78f84220e56f5a2378bab2acd942ded539ecf8fcd9fa5e20109b31a92c682a"
+  },
+  "step3": {
+    "info": {
+      "id": "33a97dc9884f137eff1808a3b0fd6409",
+      "name": "варвары орехофобы шаг3",
+      "count": 117,
+      "tick": 5434724,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794431190
+    },
+    "sha256": "5d553fccc3cb424172d33cd23b9d20cb2f193fe2bd884540e9ab007fded90ec7"
+  },
+  "step6": {
+    "info": {
+      "id": "f1dcb70cf4ff243922c286a0d5179e56",
+      "name": "варвары орехофобы шаг6",
+      "count": 189,
+      "tick": 6095324,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794432496
+    },
+    "sha256": "ae224975c11ce7e4d6358a6a87b9b0295ace1bd7811f25a19005f94f78f11067"
+  },
+  "base_late": {
+    "info": {
+      "id": "96f60db877541c73bdcb8ba83c3e2a7d",
+      "name": "варвары",
+      "count": 168,
+      "tick": 6798226,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794429205
+    },
+    "sha256": "cf8d2dada74f1e7b93990e19bdb117f9fb1e73f1385bf24a644575e054931625"
+  },
+  "base_early": {
+    "info": {
+      "id": "ea22eb240b45fba23844d81a93517128",
+      "name": "варвары",
+      "count": 175,
+      "tick": 5586618,
+      "compass": false,
+      "architecture": "733 → 32 → 6 · 23686 весов",
+      "saved_at": 1794428590
+    },
+    "sha256": "e10bc726342abe398b112ebfb16bfb8cfdd54f8c392a7d80820b0ea0c83c39d4"
+  }
+}
